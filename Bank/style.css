@@ -1,0 +1,23 @@
+.dash-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.dash-list .dl{
+    width: 20%;
+    height: 100px;
+    padding: 3%;
+    margin-top: 5%;
+    background-color: rgb(183, 200, 209);
+    display: flex;
+    align-items: center;
+}
+
+.dash-list .dl a{
+    color: black;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: x-large;
+}
